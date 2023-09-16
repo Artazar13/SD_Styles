@@ -2,7 +2,6 @@
 "+ Details,""(intricate details:0.9), (hdr, hyperdetailed:1.2)"","
 "+ Natural Skin,""(natural skin texture, hyperrealism, soft light, sharp)"",""(cgi:0.9), {prompt}, 3d, illustration, cartoon, (doll:0.9)"","
 "- Basic Negative,"""",""[deformed | disfigured], poorly drawn, [bad : wrong] anatomy, [extra | missing | floating | disconnected] limb, (mutated hands and fingers), blurry"","
-"- Basic Negative,,""[deformed | disfigured], poorly drawn, [bad : wrong] anatomy, [extra | missing | floating | disconnected] limb, (mutated hands and fingers), blurry"""
 "- Anime Negative,"""",""(worst quality, mutated hands and fingers, bad anatomy, wrong anatomy, mutation:1.2), watermark, signature"","
 "Anime,""(anime), (illustration), cartoon, detailed, {prompt}"","
 "Hentai,""(ahegao), (anime, hentai painting), naked nao tomori, ({prompt}:1.15), intricate, glossy, realism, art by rossdraws, soft light, (muted colors), warm, dramatic, (cum dripping)"","
